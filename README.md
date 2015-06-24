@@ -3,6 +3,8 @@ Java-Affinity
 
 OpenHFT Java Thread Affinity library
 
+*Note that version affinity-2.2 is the last official working version released under the apache license.
+
 See the affinity/src/test/java for working examples of how to use this library.
 
 ## Versions
